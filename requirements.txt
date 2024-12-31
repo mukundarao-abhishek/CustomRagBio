@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+streamlit
+torch
+transformers
+llama-cpp-python
+numpy
+scikit-learn
+pymupdf
